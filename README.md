@@ -1,6 +1,7 @@
-# Python on Replit
+# Python Djnago 연습
 
-This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
+Repl.it 에서 Python Django 연습 중 입니다.
+commit 과 push 가 잘되는지 알고 싶습니다.
 
 ## Running the repl
 
