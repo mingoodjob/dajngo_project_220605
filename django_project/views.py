@@ -1,6 +1,8 @@
 from django.http import HttpResponse
 from django.shortcuts import render,redirect
 
+
+# views.py 'log' redirect
 def home(request):
   return redirect("log")
 
