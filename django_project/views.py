@@ -2,7 +2,7 @@ from django.http import HttpResponse
 from django.shortcuts import render,redirect
 
 def home(request):
-  return HttpResponse("HOME PAGE")
+  return redirect("log")
 
 def log(request):
   if request.method == 'POST':
